@@ -22,7 +22,7 @@ int main(int argc, char* argv[]){
     } else{
 
         unsigned int number;
-        cout << "Input number:";
+        //cout << "Input number:";
         cin >> number;
 
         do{
